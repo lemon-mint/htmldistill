@@ -17,5 +17,3 @@ Key features:
 3. Script and style removal: HTMLDistill automatically strips away inline scripts and style definitions, as they are typically not useful for LLMs and can introduce unnecessary complexity.
 
 4. Customizable configuration: The library provides a flexible configuration system, allowing you to fine-tune the distillation process based on your specific requirements and the needs of your LLM.
-
-5. Efficient and scalable: HTMLDistill is built with performance in mind, ensuring fast and efficient processing of large volumes of HTML content.
