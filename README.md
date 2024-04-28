@@ -1,4 +1,4 @@
-# htmldistill
+# HTMLDistill
 
 HTMLDistill is a powerful and efficient library designed to streamline HTML content for optimal processing by Large Language Models (LLMs). It meticulously analyzes HTML documents and removes extraneous elements that may hinder the performance and accuracy of LLMs.
 
