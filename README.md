@@ -1,5 +1,7 @@
 # HTMLDistill
 
+![FFFF](https://github.com/lemon-mint/htmldistill/assets/55233766/eff1e5b9-ece2-4254-87a4-4f51ef626a25)
+
 HTMLDistill is a powerful and efficient library designed to streamline HTML content for optimal processing by Large Language Models (LLMs). It meticulously analyzes HTML documents and removes extraneous elements that may hinder the performance and accuracy of LLMs.
 
 With HTMLDistill, you can easily extract the most relevant and meaningful information from HTML pages by eliminating unnecessary scripts, styles, attributes, and other superfluous content. The library employs advanced algorithms to identify and preserve the essential structure and semantics of the HTML, ensuring that the distilled output is clean, concise, and ready for consumption by LLMs.
